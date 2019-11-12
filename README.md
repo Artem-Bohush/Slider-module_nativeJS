@@ -1,1 +1,1 @@
-# slider-module_nativeJS
+# Slider-module_nativeJS
