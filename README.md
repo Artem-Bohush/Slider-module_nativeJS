@@ -39,3 +39,4 @@ Next step - add slider.js to you project and import this module. Then just call 
 ```
 slider('slider-item', 'prev', 'next', 'slider-dots', 'dot')
 ```
+The example has only four slides, but you can easily scale it by adding blocks with a photo and blocks with a dot (required), as much as necessary. 
