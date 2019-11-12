@@ -35,3 +35,7 @@
     </div>
   </div>
 ```
+Next step - add slider.js to you project and import this module. Then just call a function with passing corresponding classes to it. Like this:
+```
+slider('slider-item', 'prev', 'next', 'slider-dots', 'dot')
+```
