@@ -1,5 +1,5 @@
 # Slider-module_nativeJS
-  This is a simple code for slider that provides a slide switch(e. g. arrows) and dots to display the current slide.
+  This is a simple code for slider on your site. It provides switching between slides(by clicking on arrow block) and dots to display the current slide. Any changing is up to you.
 ## Usage
   Your layout should contains next code structure:
 ```
