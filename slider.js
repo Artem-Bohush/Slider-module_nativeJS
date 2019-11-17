@@ -43,5 +43,5 @@ function slider(slideClass, prevPhotoClass, nextPhotoClass, dotWrapperClass, dot
 
 export default slider;
 
-// after importing the module - function call with passing corresponding classes to it
+// after importing the module - call function with passing corresponding classes to it
 // slider('slider-item', 'prev', 'next', 'slider-dots', 'dot')
